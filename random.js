@@ -2,7 +2,7 @@
 // var price = 3.991;
 // var rounded = Math.floor(price);
 // for (var i = 0; i < 10; i++) {
-var random = Math.random() * 6;
-var ceil = Math.ceil(random);
-console.log(ceil);
+min = Math.ceil(20);
+max = Math.floor(30);
+console.log(Math.floor(Math.random() * (30 - 20 + 1)) + 20);
 // }
