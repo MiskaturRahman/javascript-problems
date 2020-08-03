@@ -8,9 +8,9 @@ function factorial(n) {
     }
     return factorial;
 }
-
 var result = factorial(10);
 console.log(result);
+
 // console.log(factorial);
 
 function factorial(n) {
