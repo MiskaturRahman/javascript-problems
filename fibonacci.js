@@ -14,6 +14,6 @@ function fibonacci(n) {
     }
     return fibo;
 }
-console.log(fibonacci(5));
+console.log(fibonacci(10));
 
 //prints whole list
